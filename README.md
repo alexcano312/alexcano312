@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Alejandro Cano</h1>
-<h3 align="center">Un apasionado frontend developer from México</h3>
+<h3 align="center">Un apasionado frontend developer de México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcano312&label=Profile%20views&color=0e75b6&style=flat" alt="alexcano312" /> </p>
 
