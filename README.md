@@ -21,9 +21,6 @@ Actualmente trabajo en un portafolio personal<br>Estoy aprendiendo a usar Micros
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=alexcano312&icon=5&color=6)](https://visitcount.itsvg.in)
 
